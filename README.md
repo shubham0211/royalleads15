@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Dubey
+- 👋 Hi, I’m shub
 - 👀 I’m interested in web development
 - 🌱 A longlife Learner
 - 💞️ I’m looking to collaborate on open source
